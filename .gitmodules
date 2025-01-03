@@ -1,0 +1,9 @@
+[submodule "Simon-Game"]
+	path = Simon-Game
+	url = https://github.com/V-isha-L/Simon-Game.git
+[submodule "My-first-project"]
+	path = My-first-project
+	url = https://github.com/V-isha-L/My-first-project.git
+[submodule "googeHomePage"]
+	path = googeHomePage
+	url = https://github.com/V-isha-L/googeHomePage.git
